@@ -1,0 +1,2 @@
+# Erzeugendensysten und Basis #La1 
+Sei V ein [Vektorraum](Vektorraum.md), $B\subset V$ heißt Erzeugendensystem wenn $\langle B \rangle=V$. B heißt Basis wenn B ein [linear unabhängiges](Lineare%20Unabh%C3%A4ngigkeit.md) erzeugendensystem ist.

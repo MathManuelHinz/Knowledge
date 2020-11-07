@@ -1,0 +1,2 @@
+# Einsetztungsringhomomorphismus #EinfAlg 
+Für jedes $r\in R$ [Ring](Einf.%20Alg/Definition/Ring.md) ist durch $f\mapsto f(r)$ ein [Ringhomomorphismus](Einf.%20Alg/Definition/Ringhomomorphismus.md) gegeben.

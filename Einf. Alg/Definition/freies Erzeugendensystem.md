@@ -1,0 +1,3 @@
+# freies Erzeugendensystem #EinfAlg
+Sei R ein [Ring](Einf.%20Alg/Definition/Ring.md) und M ein [Moduln über R](Moduln%20%C3%BCber%20Ringen.md). Dann nennen wir $(b_i)_{i=1}^n$ ein freies Erzeugendensystem oder Basis falls des von ihnen [erzeugte Untermoduls](erzeugte%20Untermoduln.md), wenn die Darstellung als Linearkombination immer Eindeutig ist. Wir nennen einen endlich erzeugten Modul frei, falls er in diesem Sinne ein freies Erzeugendensystem hat. Das freie Erzeugendensystem muss nicht unbedingt endlich sein.
+## Siehe auch

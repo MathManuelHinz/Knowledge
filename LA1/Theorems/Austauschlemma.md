@@ -1,0 +1,2 @@
+# Austauschlemma #La1
+Sei $B=\{x_1,\dots,x_n\}$ eine Basis von dem [Vektorraum](Vektorraum.md) V. Für $x \in V$ gelte $$x=\sum_{i=1}^n\lambda_ix_i$$, wobei  $\exists k\in\mathbb{N}:\lambda_k\in K\neq0$ sind. Dann ist $B':=(B\setminus\{x_k\})\cup\{x\}$ eine Basis von V.

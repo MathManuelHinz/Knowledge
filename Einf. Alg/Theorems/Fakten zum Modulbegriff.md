@@ -1,0 +1,2 @@
+# Fakten zum [Modul](Moduln%20%C3%BCber%20Ringen.md)begriff #EinfAlg 
+Auf jeder [abelsche Gruppe](abelsche%20Gruppe.md) existiert genau eine Strukur eines $\mathbb{Z}$-Moduls, und die Morphismen von $\mathbb{Z}$-Moduln sind genau die Homomorphismen abelscher Gruppen.

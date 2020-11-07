@@ -1,0 +1,2 @@
+# Basisergängzungssatz #La1 
+Sei V ein [Vektorraum](Vektorraum.md), $U\subset V$ ein [Unterraum](Unterraum.md) mit $\dim_K(U)<\infty$ mit Basis $B_U=\{x_1,\dots,x_n\}$. Dann gibt es eine Basis B von V, so dass $B_U\subset B$. 

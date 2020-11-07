@@ -1,0 +1,1 @@
+Sei $V$ ein K-[Vektorraum](Vektorraum.md), $\dim_K(V)=n<\infty$ und $T\in$ [End$_K(V)$](lineare%20Abbildung.md#Endomorphismus).  Dann heißt das (eindeutige) normierte Polynom  $\mu_T$ minimalen [Grades](Grad%20eines%20Polynoms.md) mit $\mu_T(T)=0$. $\mu_T$ heißt Minimalpolynom von T.

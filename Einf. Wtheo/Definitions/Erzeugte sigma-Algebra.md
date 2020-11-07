@@ -1,0 +1,3 @@
+# Erzeugte sigma-Algebra #EinfWth
+Für eine Menge $\mathcal{E}$ von Teilmengen von $\Omega$ definiert man $\sigma(\mathcal{E})$, die von $\mathcal{E}$ erzeugte [$\sigma$-Algebra](Einf.%20Wtheo/Definitions/sigma-Algebra.md), als die kleinste $\sigma$-Algebra die $\mathcal{E}$ enthält. d.h. $$\sigma(\mathcal{E})=\cap\{\mathcal{F}\subseteq P(\Omega)|\mathcal{F}\text{ ist eine }\sigma\text{-Algebra und }\mathcal{E}\subset\mathcal{F}\}.$$ $\mathcal{E}$ ist Erzeuger von $\sigma(\mathcal{E})$.
+## Siehe auch

@@ -1,0 +1,2 @@
+# Eindeutigkeit linearer Abbildungen #La1 
+Sei ${b_1,\dots,b_n}$ eine [Basis](Erzeugendensysten%20und%20Basis.md) von dem [Vektorraum](Vektorraum.md) V und seien $y_1,\dots,y_n\in W$ (einem weiteren Vektorraum). Dann existiert genau eine [lineare Abbildung](lineare%20Abbildung.md) $T\in$ [Hom$_K(V,W)$](Mengen%20von%20Linearen%20Abbildungen.md#Die%20Menge%20der%20linearen%20Abbildungen) mit $\forall_{i}:T(b_i)=y_i$.

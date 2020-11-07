@@ -1,0 +1,3 @@
+# algebraische Vielfachheit #La1 
+Sei $V$ ein K-[Vektorraum](Vektorraum.md), $\dim_K(V)=n<\infty$ und $T\in$ [End$_K(V)$](lineare%20Abbildung.md#Endomorphismus).
+$m(\chi_T)$ bezeichnet die Vielfachheit der Nullstelle / [Eigenwerte](Eigenvektoren,%20Eigenwerte%20und%20geometrische%20Vielfachheit.md) $\lambda$ von $\chi_T$. Falls $\chi_T(\lambda)\neq0$ setzen wir $m(\chi_T,\lambda)=0$. $m(\chi_T,\lambda)$ heißt algebraische Vielfachheit von $\lambda$.

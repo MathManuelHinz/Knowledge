@@ -1,0 +1,2 @@
+# [Ring](Einf.%20Alg/Definition/Ring.md) der ganzen Gaußschen Zahlen #EinfAlg 
+$$\mathbb{Z}[i]=\{z\in\mathbb{C}|\text{real}(z)\in\mathbb{Z},\text{img}(z)\in\mathbb{Z}\}$$ ist ein Unterring von $\mathbb{C}$.

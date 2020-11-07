@@ -1,0 +1,2 @@
+# Trigonalisierbarkeit #La1 
+Sei $V$ ein K-[Vektorraum](Vektorraum.md), $\dim_K(V)=n<\infty$ und $T\in$ [End$_K(V)$](lineare%20Abbildung.md#Endomorphismus).  T heißt trigonalisierbar, falls es eine [Basis](Erzeugendensysten%20und%20Basis.md) gibt, s.d. die darstellende Matrix bezüglich der Basis obere Dreiecksgestalt hat.

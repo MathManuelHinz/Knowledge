@@ -1,0 +1,4 @@
+# Satz über R[T]-[Moduln ](Moduln%20%C3%BCber%20Ringen.md) #EinfAlg 
+ Sei $R[T]$ ein [Polynomring](Einf.%20Alg/Definition/Polynomring.md). Für jeden $R[T]$-Modul M ist durch $\tau(m)=T\cdot m$ ein Endomorphismus von M als R-Modul definiert. Für einen R-Modul M erhalten wir auf diese Weise eine Bijektion zwischen den Strukturen eines $R[T]$-Moduls auf M, welche bei Einschränkung auf R die gegebene R-Modulstruktur liefern, und den Endomorphismen $\tau$ des R-Moduls M. 
+ Für einen Endomorphismus $\tau$ eines R-Moduls M sei $M_\tau$ der auf diese Weise definierte R[T]-Modul. Dann haben wir
+ $$\text{Hom}_{R[T]}(M_\tau,N\sigma)=\{f\in\text{Hom}(M,N)|\sigma(f(m))=f(\tau(m))\}.$$
