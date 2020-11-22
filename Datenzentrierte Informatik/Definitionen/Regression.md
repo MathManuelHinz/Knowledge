@@ -1,3 +1,0 @@
-# Regression #DataInf
-
-## Siehe auch

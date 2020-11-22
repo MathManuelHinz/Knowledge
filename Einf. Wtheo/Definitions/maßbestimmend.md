@@ -1,0 +1,3 @@
+# maßbestimmend #EinfWth
+Sei $\mathscr{F}$ eine [$\sigma$-Algebra](Einf.%20Wtheo/Definitions/sigma-Algebra.md) über $\Omega$, $\mathscr{C}$ ein [durchschnittsstabiles](Einf.%20Wtheo/Definitions/durchschnittsstabil.md) Mengensytem mit $\sigma(\mathscr{C})=\mathscr{F}$. Falls $\mu,\nu$ zwei [Wahrscheinlichkeitsmaße](Ana3/Definitions/Ma%C3%9Fraum.md) sind s.d. $\mu(A)=\nu(A)\forall_{A\in\mathscr{C}}$, dann $\mu=\nu$ auf $\mathscr{F}$. Deshalb nennt man $\mathscr{C}$ maßbestimmend.
+## Siehe auch
