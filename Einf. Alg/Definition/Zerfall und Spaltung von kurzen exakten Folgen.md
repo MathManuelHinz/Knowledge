@@ -3,7 +3,7 @@ Für kurze [exakte Folgen](Einf.%20Alg/Definition/Exakte%20Folgen.md) von R-[Mod
 sind die folgenden Bedingungen äquivalent (Morphismus hier = [Morphismus von R-Moduln](Einf.%20Alg/Definition/Morphismus%20von%20R-Moduln.md)):
 - Es existiert einen Morphismus $\pi:M\to M'$, der linksinvers zu i ist, also $\pi i=\text{Id}_{M'}$.
 - Es gibt einen Untermodul $X\subseteq M$, der durch p isomorph auf $M''$ abgebildet wird.
-- Es gibt einen #toFix Morphismus $\sigma:M''\to M$ der rechtsinvers zu p ist, also $p\sigma=\text{Id}_{M'}''$
+- Es gibt einen #toFix Morphismus $\sigma:M''\to M$ der rechtsinvers zu p ist, also $p\sigma=\text{Id}_{M''}$
 ![](Res/Pasted%20image%2020201128100706.png) 
 - Es gibt einen Isomorphismus $\mu:M\to M'\oplus M''$ s.d. das Diagramm kommutiert:
 ![](Res/Pasted%20image%2020201205073658.png)

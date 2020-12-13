@@ -7,6 +7,9 @@ $$T:V\to W$$ heißt lineare Abbildung (Vektorraum Homomorphismus), wenn für all
 # Isomorphismus
 Falls T bijektiv ist, spricht man von einem Isomorphismus.
 # Endomorphismus
+
+^fcca65
+
 Falls T $V=W$, so ist T ein Endomorphismus.
 # Automorphismus
 Falls T sowohl ein Endomorphismus als auch ein Isomorphismus ist, so nennt man T einen Automorphismus.

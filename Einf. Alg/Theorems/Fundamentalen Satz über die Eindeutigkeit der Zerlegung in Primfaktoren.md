@@ -7,4 +7,4 @@ Es sei R ein [Integritätsbereich](Einf.%20Alg/Definition/Integrit%C3%A4tsbereic
 
 Ein solcher Integritätsbereich wird ==faktoriell== genannt.
 ## Siehe auch
-- #EinfAlgVL
+- #EinfAlgVL5
