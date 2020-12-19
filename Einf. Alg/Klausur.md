@@ -1,2 +1,4 @@
 - erweiterter euklidischer Algorithmus zum berechnen von Inversen
 - Beweis: [kurze exakte Folgen und endliche Erzeugtheit](Einf.%20Alg/Theorems/kurze%20exakte%20Folgen%20und%20endliche%20Erzeugtheit.md)
+- Einheiten niemals irreduzible
+- VL13 Prüfung beliebig viele Variable in dem Theorem
