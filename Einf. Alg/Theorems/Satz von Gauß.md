@@ -1,5 +1,5 @@
 # Satz von Gauß #EinfAlg 
-Sei $R$ ein [Integritätsbereich mit ggT](Einf.%20Alg/Definition/Integrit%C3%A4tsbereich%20mit%20ggT.md). Wenn $P,Q\in R[T]$ [primitive](Einf.%20Alg/Definition/Inhalt%20und%20primitiv.md)] Polynome sind, so ist auch $PQ$ primitiv.
+Sei $R$ ein [Integritätsbereich mit ggT](Einf.%20Alg/Definition/Integrit%C3%A4tsbereich%20mit%20ggT.md). Wenn $P,Q\in R[T]$ [primitive](Einf.%20Alg/Definition/Inhalt%20und%20primitiv.md) Polynome sind, so ist auch $PQ$ primitiv.
 ## Folgerung
 Für $P,Q\in R[T]$ gilt $\text{Inh}(PQ)\sim\text{Inh}(P)\text{Inh}(Q)$.
 ## Satz

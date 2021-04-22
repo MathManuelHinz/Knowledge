@@ -6,7 +6,7 @@ Sei R ein faktorieller Integritätsbereich. Dann ist auch $R[X_1,\dots,X_n]$ ode
 ### Folgerung
 Für $n\in \mathbb{N}$ ist $\mathbb{Z}[X_1,\dots,X_n]$ faktoriell, für einen Körper K ist auch $K[X_1,\dots,X_n]$ faktoriell.
 ### Bemerkung
-Für n $\geq 1$ ist $\mathbb{Z}[X_1,\dots,X_n]$ kein [Hauptidealbereich](Einf.%20Alg/Definition/Hauptidealbereiche.md) (das von 2 und den $X_i$ erzeugte Ideal ist kein Hauptideal), für $n\geq 2$ ist $K[X_1,dots,X_n]$ kein Hauptidealbereich (das von den $X_i$ erzeugte Ideal ist kein [Hauptideal](Einf.%20Alg/Definition/Hauptideal.md)). Weiterhin ist $K[X_i|i\in\mathbb{N}]$ nicht [noethersch](Einf.%20Alg/Definition/Noethersche%20Ringe.md), aber faktoriell.
+Für n $\geq 1$ ist $\mathbb{Z}[X_1,\dots,X_n]$ kein [Hauptidealbereich](Einf.%20Alg/Definition/Hauptidealbereiche.md) (das von 2 und den $X_i$ erzeugte Ideal ist kein Hauptideal), für $n\geq 2$ ist $K[X_1,\dots,X_n]$ kein Hauptidealbereich (das von den $X_i$ erzeugte Ideal ist kein [Hauptideal](Einf.%20Alg/Definition/Hauptideal.md)). Weiterhin ist $K[X_i|i\in\mathbb{N}]$ nicht [noethersch](Einf.%20Alg/Definition/Noethersche%20Ringe.md), aber faktoriell.
 ## Siehe auch
 - #EinfAlgVL13 
 - #Theorem

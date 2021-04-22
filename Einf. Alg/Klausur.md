@@ -2,3 +2,6 @@
 - Beweis: [kurze exakte Folgen und endliche Erzeugtheit](Einf.%20Alg/Theorems/kurze%20exakte%20Folgen%20und%20endliche%20Erzeugtheit.md)
 - Einheiten niemals irreduzible
 - VL13 Prüfung beliebig viele Variable in dem Theorem
+- Es gibt alberaisch aber nicht monogen
+- Satz über endliche Untergruppen von Körper => Zyklisch VL 18
+- Primitives Element VL 18

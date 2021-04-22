@@ -1,5 +1,5 @@
 # Allgemeine Polynomringe #EinfAlg 
-Für eine Menge X von Variablen sei $M_X$ die Menge aller Funktionen $\alpha:X\to\mathbb{N}$, s.d. nur endlich viele $x\in X$ mit $\alpha(x)\neq 0$ existieren. Für $\alpha,\beta\in M_X$ definieren wir $\alpha+\beta\in M_X$ durch $(\alpha+\beta)(x)=\alpha(x)+\beta(x)$. Sei R ein [Ring](Einf.%20Alg/Definition/Ring.md). Wenn $\alpha\in M_X$ und $r=(r_x)_{x\in X}$ eine Funktion $X\to R$ ist, schreiben wir $$r^\alpha=\prod_{x\in X}r^{\alpha(x)}_\alpha.$$
+Für eine Menge X von Variablen sei $M_X$ die Menge aller Funktionen $\alpha:X\to\mathbb{N}$, s.d. nur endlich viele $x\in X$ mit $\alpha(x)\neq 0$ existieren. Für $\alpha,\beta\in M_X$ definieren wir $\alpha+\beta\in M_X$ durch $(\alpha+\beta)(x)=\alpha(x)+\beta(x)$. Sei R ein [Ring](Einf.%20Alg/Definition/Ring.md). Wenn $\alpha\in M_X$ und $r=(r_x)_{x\in X}$ eine Funktion $X\to R$ ist, schreiben wir $$r^\alpha=\prod_{x\in X}r^{\alpha(x)}_x.$$
 Sei $R[x|x\in X]$ die Menge aller Familien $P=(p_\alpha)_{\alpha\in M_X}$, so dass nur endlich viele $\alpha\in M_X$ mit $p_\alpha\neq 0$ existieren, versehen mit der Ringstruktur
 $$(P+Q)_\alpha=p_\alpha+q_\alpha$$
 $$(PQ)_\alpha=\sum_{\alpha=\beta+\gamma\in M_X}p_\beta q_\gamma.$$
